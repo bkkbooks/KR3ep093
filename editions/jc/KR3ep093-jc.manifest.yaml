@@ -1,0 +1,301 @@
+canonical_identifier: bkk:krp/KR3ep093/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep093/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千里醫案
+  identifiers:
+    krp: KR3ep093
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep093.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep093_000-jc.yaml, hash: 'sha256:baa70a72aed27f288bdda7a5c6ea9a1c6a844ca1850b4b741f242de6976da940'}
+  - {seq: 1, filename: KR3ep093_001-jc.yaml, hash: 'sha256:37fab3d144311d87f91cc08e13d72f6ec6095624009409b352ae5a3d6cafef59'}
+  - {seq: 2, filename: KR3ep093_002-jc.yaml, hash: 'sha256:8cdcf6d585d1f3abd9b237b6d7fca1d5d76d41eb208b5832184fb8f920e41623'}
+  - {seq: 1000, filename: KR3ep093_1000-jc.yaml, hash: 'sha256:a43333e8c4004941a7c1f28b6b08e628c919500beb9d58b39b9d48c4afdfaece'}
+  - {seq: 0, filename: KR3ep093_000-jc.yaml, hash: 'sha256:b7b67dbad8eef9a1a4758c65d7470dfdad263a6f8e4cceed352c4082c9fe93f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep093_000-jc.markers.yaml, hash: 'sha256:f32e1ebe14e11d5e4ae231d409e9ff67a5cec9c920cb81d6ca5e7ad889007501'}
+  - {seq: 1, role: markers, filename: assets/KR3ep093_001-jc.markers.yaml, hash: 'sha256:f1b398378ad74970923b9651625aab42a7a56c328c2abaefa43d51047b1a3ba1'}
+  - {seq: 2, role: markers, filename: assets/KR3ep093_002-jc.markers.yaml, hash: 'sha256:35f27e548cbeb71d9f1a7a5be6115ce1008bbd4b730ab57aaeb371ce0455b9b5'}
+  - {seq: 1000, role: markers, filename: assets/KR3ep093_1000-jc.markers.yaml, hash: 'sha256:ee1ac851f3592607f72c81746f05c30f3eb01b0836b1e9862e343c2eae82f4f6'}
+  - {seq: 0, role: markers, filename: assets/KR3ep093_000-jc.markers.yaml, hash: 'sha256:f32e1ebe14e11d5e4ae231d409e9ff67a5cec9c920cb81d6ca5e7ad889007501'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep093_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 276
+  label: 張千里先生醫案序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep093_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 3782
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep093_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1248
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep093_jc_001-d3d3
+    span:
+    - body
+    - 1248
+    - 1813
+  label: 枇杷葉兩片
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep093_jc_001-d3d4
+    span:
+    - body
+    - 1813
+    - 3782
+  label: 暑溫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep093_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 4735
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep093_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 2208
+  label: 濕
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep093_jc_002-d4d3
+    span:
+    - body
+    - 2208
+    - 2990
+  label: 火
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep093_jc_002-d4d4
+    span:
+    - body
+    - 2990
+    - 4735
+  label: 燥
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8293
+  label: 千里醫案卷三
+  type: section
+  level: 1
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d5d2
+    span:
+    - body
+    - 6
+    - 3037
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d5d3
+    span:
+    - body
+    - 3037
+    - 8293
+  label: 血證
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d6.h1s1
+    span:
+    - body
+    - 8293
+    - 17735
+  label: 千里醫案卷四
+  type: section
+  level: 1
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d6d2
+    span:
+    - body
+    - 8299
+    - 13075
+  label: 腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d6d3
+    span:
+    - body
+    - 13075
+    - 16219
+  label: 痰飲
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d6d4
+    span:
+    - body
+    - 16219
+    - 17031
+  label: 疝
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d6d5
+    span:
+    - body
+    - 17031
+    - 17735
+  label: 寒疝宿飲
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7.h1s1
+    span:
+    - body
+    - 17735
+    - 27017
+  label: 千里醫案卷五
+  type: section
+  level: 1
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d2
+    span:
+    - body
+    - 17741
+    - 19310
+  label: 諸痛
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d3
+    span:
+    - body
+    - 19310
+    - 20651
+  label: 便血附腸風痔血
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d4
+    span:
+    - body
+    - 20651
+    - 21397
+  label: 癇厥
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d5
+    span:
+    - body
+    - 21397
+    - 22882
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d6
+    span:
+    - body
+    - 22882
+    - 23777
+  label: 痿躄
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d7
+    span:
+    - body
+    - 23777
+    - 25007
+  label: 痹
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d8
+    span:
+    - body
+    - 25007
+    - 25816
+  label: 咽喉
+  type: section
+  level: 2
+- ref:
+    seq: 1000
+    marker_id: KR3ep093_jc_1000-d7d9
+    span:
+    - body
+    - 25816
+    - 27017
+  label: 癰瘍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep093_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 538
+  label: 張氏醫案跋
+  type: section
+  level: 1
+hash: sha256:2017e2e3b5df95d7148601992f768bef3c12ed1756f171041eeffe0b670d5157
