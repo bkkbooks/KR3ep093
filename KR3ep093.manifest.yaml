@@ -16,15 +16,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep093_000.yaml, hash: 'sha256:0ca67a28f79976531cdaf8dd0138b78e4a74337508f2e1c60dd9b427b45c9a40'}
-  - {seq: 1, filename: KR3ep093_001.yaml, hash: 'sha256:ef86819675f501cfbfe1281009f5423fac4331b7e2cac1f723941cf439b480f2'}
-  - {seq: 2, filename: KR3ep093_002.yaml, hash: 'sha256:d8dfc3640b5d15ccd244b4e73ce3a074fd835bb321f24ff405f9b0e2443fe1a9'}
+  - {seq: 0, filename: KR3ep093_000.yaml, hash: 'sha256:b7b67dbad8eef9a1a4758c65d7470dfdad263a6f8e4cceed352c4082c9fe93f4'}
+  - {seq: 1, filename: KR3ep093_001.yaml, hash: 'sha256:37fab3d144311d87f91cc08e13d72f6ec6095624009409b352ae5a3d6cafef59'}
+  - {seq: 2, filename: KR3ep093_002.yaml, hash: 'sha256:8cdcf6d585d1f3abd9b237b6d7fca1d5d76d41eb208b5832184fb8f920e41623'}
   - {seq: 1000, filename: KR3ep093_1000.yaml, hash: 'sha256:a43333e8c4004941a7c1f28b6b08e628c919500beb9d58b39b9d48c4afdfaece'}
-  - {seq: 0, filename: KR3ep093_000.yaml, hash: 'sha256:0ca67a28f79976531cdaf8dd0138b78e4a74337508f2e1c60dd9b427b45c9a40'}
+  - {seq: 0, filename: KR3ep093_000.yaml, hash: 'sha256:b7b67dbad8eef9a1a4758c65d7470dfdad263a6f8e4cceed352c4082c9fe93f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep093_000.markers.yaml, hash: 'sha256:5bed97f33ed6a2f212851f9e810c1bb04b8a03445df8533832d531fa5a1d8846'}
-  - {seq: 1, role: markers, filename: assets/KR3ep093_001.markers.yaml, hash: 'sha256:bc9272ad32e7994278ecaaca87052f88d2ff043aa10599b571ac87e6d4df4b4b'}
-  - {seq: 2, role: markers, filename: assets/KR3ep093_002.markers.yaml, hash: 'sha256:473c1193833e37f87f71931efd5aa145d046eb78d923e34f4c31e0d48fc5deca'}
+  - {seq: 0, role: markers, filename: assets/KR3ep093_000.markers.yaml, hash: 'sha256:eb685a34727b2c4e22506347f0923c0f98f622e1cfafeb90b707d6d557baea1f'}
+  - {seq: 1, role: markers, filename: assets/KR3ep093_001.markers.yaml, hash: 'sha256:3683d8df53593812952b55eaedb3990dc83078df90f4e723690136c58b980e8d'}
+  - {seq: 2, role: markers, filename: assets/KR3ep093_002.markers.yaml, hash: 'sha256:71a4e9d6706bf8fed62b6342a62af20d8edbeef744fd84e574d01dacb1dd3b10'}
 table_of_contents:
 - ref:
     seq: 0
@@ -296,7 +296,4 @@ table_of_contents:
   label: 張氏醫案跋
   type: section
   level: 1
-hash: sha256:14d9033b227b82018822901506ca38ccaeb59d3f6686df170edbfb7343493cb3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d943b5f176e664c8812dd5f7ebe3a9238869fc310419df756c7729bb80ee6712
