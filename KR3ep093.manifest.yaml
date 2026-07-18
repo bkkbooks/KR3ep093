@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3ep093_000.yaml, hash: 'sha256:a2c2eb82ae24ea4a7939d38ecb2d9eb5e2e54d4c23b70fe53e12f804fe13bb58'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ep093_000.markers.yaml, hash: 'sha256:42f1f614a6dafdd3a297fcde91867b5a6996a1f95e163ccb211dfd0312512a1c'}
-  - {seq: 1, role: markers, filename: assets/KR3ep093_001.markers.yaml, hash: 'sha256:f6e634052e91c8d9ebe9cce5c9bd6da705ecf533f632d5cdafb1a289fbdf90fa'}
-  - {seq: 2, role: markers, filename: assets/KR3ep093_002.markers.yaml, hash: 'sha256:f13e707482a3165080e560a1002fc254fc1eb16c1604f38f909e463cc6f9fb55'}
+  - {seq: 1, role: markers, filename: assets/KR3ep093_001.markers.yaml, hash: 'sha256:d3f04b716668fb5d63ec0b6ee36950849772ab5492e2468cf30730a3b3a44e4d'}
+  - {seq: 2, role: markers, filename: assets/KR3ep093_002.markers.yaml, hash: 'sha256:7b44ecfc04e582b6352a83bfbb84e6d999dd36cf1f4bad024cf94b0bcec6ffe2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -296,7 +296,7 @@ table_of_contents:
   label: 張氏醫案跋
   type: section
   level: 1
-hash: sha256:fd95830702a5cc5a3ad6af56584e15a25b2b207ffbe23b982bc7032d67227fcf
+hash: sha256:d8f3911765a46e7196af9da3e9c1efc177f302eb0f65c4c53c5b49449b412898
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
